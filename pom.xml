@@ -8,5 +8,80 @@
     <artifactId>mustream-api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>war</packaging>
+
+    <dependencies>
+
+        <!-- Default provider for JSR 353:Java API for Processing JSON -->
+        <dependency>
+            <groupId>org.glassfish</groupId>
+            <artifactId>javax.json</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+        <!-- importing J2E API -->
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+        <!-- importing hibernate from org.hibernate as a provider for JPA-->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+        <!-- for JPA, using hibernate-entity-manager-->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+        <!-- using jersey as the REST-ful services provider -->
+        <dependency>
+            <groupId>org.glassfish.jersey.containers</groupId>
+            <artifactId>jersey-container-servlet</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.core</groupId>
+            <artifactId>jersey-server</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+
+    </dependencies>
+
+    <build>
+
+        <finalName>mustream</finalName>
+
+        <plugins>
+            <!-- adding the maven-compiler-plugin  -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.3</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target></configuration>
+            </plugin>
+
+            <!-- importing the maven-war plugin -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                </configuration>
+                <version>2.6</version>
+            </plugin>
+        </plugins>
+
+    </build>
+
 
 </project>
