@@ -52,6 +52,29 @@
             <version>RELEASE</version>
         </dependency>
 
+        <!-- importing swagger.io annotations for jersey JAX-RS -->
+        <dependency>
+            <groupId>io.swagger</groupId>
+            <artifactId>swagger-jersey-jaxrs</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+
+        <!-- importing mockito for test -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- importing junit for test -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+
 
     </dependencies>
 
