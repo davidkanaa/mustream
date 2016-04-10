@@ -6,14 +6,26 @@
 
     <servlet>
         <servlet-name>Application</servlet-name>
-        <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+        <servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer
+        </servlet-class>
 
         <init-param>
-            <param-name>jersey.config.server.provider.packages</param-name>
-            <param-value>io.swagger.jaxrs.listing, io.swagger.jaxrs.json, </param-value>
+            <param-name>com.sun.jersey.config.property.packages</param-name>
+            <param-value>io.swagger.jaxrs.json;io.swagger.jaxrs.listing;com.mustream.api.controllers</param-value>
+        </init-param>
+
+        <init-param>
+            <param-name>com.sun.jersey.spi.container.ContainerRequestFilters</param-name>
+            <param-value>com.sun.jersey.api.container.filter.PostReplaceFilter</param-value>
+        </init-param>
+
+        <init-param>
+            <param-name>com.sun.jersey.api.json.POJOMappingFeature</param-name>
+            <param-value>true</param-value>
         </init-param>
 
         <load-on-startup>1</load-on-startup>
+
     </servlet>
 
     <servlet-mapping>
