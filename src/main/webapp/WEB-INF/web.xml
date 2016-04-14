@@ -11,7 +11,7 @@
 
         <init-param>
             <param-name>com.sun.jersey.config.property.packages</param-name>
-            <param-value>io.swagger.jaxrs.json;io.swagger.jaxrs.listing;com.mustream.app.controllers</param-value>
+            <param-value>io.swagger.jaxrs.json;io.swagger.jaxrs.listing;com.mustream.api</param-value>
         </init-param>
 
         <init-param>
