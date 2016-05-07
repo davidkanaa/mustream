@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: antlr:antlr:2.7.7">
+    <archive path="/home/davidkanaa/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.27">
+    <archive path="/home/davidkanaa/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.3.0">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.5/jackson-annotations-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.5/jackson-core-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.5/jackson-databind-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.4.5/jackson-dataformat-xml-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.4.5/jackson-dataformat-yaml-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-joda:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.4.5/jackson-datatype-joda-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.4.5/jackson-jaxrs-base-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.4.5/jackson-jaxrs-json-provider-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.4.5">
+    <archive path="/home/davidkanaa/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.4.5/jackson-module-jaxb-annotations-2.4.5.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:annotations:2.0.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:18.0">
+    <archive path="/home/davidkanaa/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey.contribs:jersey-multipart:1.19.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/contribs/jersey-multipart/1.19.1/jersey-multipart-1.19.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-client:1.18.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/jersey-client/1.18.1/jersey-client-1.18.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-core:1.19.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-json:1.19.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/jersey-json/1.19.1/jersey-json-1.19.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-server:1.19.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-servlet:1.19.1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:2.2.3-1">
+    <archive path="/home/davidkanaa/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="/home/davidkanaa/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: io.swagger:swagger-annotations:1.5.8">
+    <archive path="/home/davidkanaa/.m2/repository/io/swagger/swagger-annotations/1.5.8/swagger-annotations-1.5.8.jar" />
+  </library>
+  <library name="Maven: io.swagger:swagger-core:1.5.8">
+    <archive path="/home/davidkanaa/.m2/repository/io/swagger/swagger-core/1.5.8/swagger-core-1.5.8.jar" />
+  </library>
+  <library name="Maven: io.swagger:swagger-jaxrs:1.5.8">
+    <archive path="/home/davidkanaa/.m2/repository/io/swagger/swagger-jaxrs/1.5.8/swagger-jaxrs-1.5.8.jar" />
+  </library>
+  <library name="Maven: io.swagger:swagger-jersey-jaxrs:1.5.8">
+    <archive path="/home/davidkanaa/.m2/repository/io/swagger/swagger-jersey-jaxrs/1.5.8/swagger-jersey-jaxrs-1.5.8.jar" />
+  </library>
+  <library name="Maven: io.swagger:swagger-models:1.5.8">
+    <archive path="/home/davidkanaa/.m2/repository/io/swagger/swagger-models/1.5.8/swagger-models-1.5.8.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/home/davidkanaa/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:servlet-api:2.5">
+    <archive path="/home/davidkanaa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+  </library>
+  <library name="Maven: javax.validation:validation-api:1.1.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
+  </library>
+  <library name="Maven: javax.ws.rs:jsr311-api:1.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" />
+  </library>
+  <library name="Maven: javax.xml.bind:jaxb-api:2.2.2">
+    <archive path="/home/davidkanaa/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar" />
+  </library>
+  <library name="Maven: javax.xml.stream:stax-api:1.0-2">
+    <archive path="/home/davidkanaa/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar" />
+  </library>
+  <library name="Maven: joda-time:joda-time:2.2">
+    <archive path="/home/davidkanaa/.m2/repository/joda-time/joda-time/2.2/joda-time-2.2.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="/home/davidkanaa/.m2/repository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="/home/davidkanaa/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.2.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.derby:derby:10.12.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.derby:derbyclient:10.4.2.0">
+    <archive path="/home/davidkanaa/.m2/repository/org/apache/derby/derbyclient/10.4.2.0/derbyclient-10.4.2.0.jar" />
+  </library>
+  <library name="Maven: org.apache.derby:derbynet:10.12.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/apache/derby/derbynet/10.12.1.1/derbynet-10.12.1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.2/jackson-jaxrs-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-xc:1.9.2">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/jackson/jackson-xc/1.9.2/jackson-xc-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jettison:jettison:1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.woodstox:stax2-api:3.1.4">
+    <archive path="/home/davidkanaa/.m2/repository/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:commonj.sdo:2.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:eclipselink:2.6.3-M1">
+    <archive path="/home/davidkanaa/.m2/repository/org/eclipse/persistence/eclipselink/2.6.3-M1/eclipselink-2.6.3-M1.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:javax.persistence:2.1.1">
+    <archive path="/home/davidkanaa/.m2/repository/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.glassfish:javax.json:1.0.4">
+    <archive path="/home/davidkanaa/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/home/davidkanaa/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-core:5.1.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-entitymanager:5.1.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/hibernate/hibernate-entitymanager/5.1.0.Final/hibernate-entitymanager-5.1.0.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+  </library>
+  <library name="Maven: org.hsqldb:hsqldb:2.3.3">
+    <archive path="/home/davidkanaa/.m2/repository/org/hsqldb/hsqldb/2.3.3/hsqldb-2.3.3.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.20.0-GA">
+    <archive path="/home/davidkanaa/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+  </library>
+  <library name="Maven: org.jboss:jandex:2.0.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final">
+    <archive path="/home/davidkanaa/.m2/repository/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" />
+  </library>
+  <library name="Maven: org.jvnet.mimepull:mimepull:1.9.3">
+    <archive path="/home/davidkanaa/.m2/repository/org/jvnet/mimepull/mimepull/1.9.3/mimepull-1.9.3.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-all:1.10.19">
+    <archive path="/home/davidkanaa/.m2/repository/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar" />
+  </library>
+  <library name="Maven: org.reflections:reflections:0.9.10">
+    <archive path="/home/davidkanaa/.m2/repository/org/reflections/reflections/0.9.10/reflections-0.9.10.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.20">
+    <archive path="/home/davidkanaa/.m2/repository/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.20">
+    <archive path="/home/davidkanaa/.m2/repository/org/slf4j/slf4j-log4j12/1.7.20/slf4j-log4j12-1.7.20.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:6.8.8">
+    <archive path="/home/davidkanaa/.m2/repository/org/testng/testng/6.8.8/testng-6.8.8.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.12">
+    <archive path="/home/davidkanaa/.m2/repository/org/yaml/snakeyaml/1.12/snakeyaml-1.12.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="/home/davidkanaa/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+</eclipse-userlibraries>
+
